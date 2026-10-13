@@ -1,0 +1,13 @@
+# Cartella Git
+.git/
+
+# File Git indicati
+config
+description
+FETCH_HEAD
+HEAD
+.gitignore
+
+
+# Variabili d'ambiente e credenziali
+.env
